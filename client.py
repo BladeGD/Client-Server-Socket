@@ -1,3 +1,10 @@
+"""
+Teng Zhao
+Student ID: 40089560
+Client program file
+I certify that I am the sole author of this file
+"""
+
 import os.path
 import socket
 
