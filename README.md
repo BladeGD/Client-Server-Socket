@@ -1,5 +1,6 @@
 # Client-Server-Socket
 Simple file transfer service developed via  python stream sockets to partially simulate the file transfer protocol (FTP).
+Files are included in the test_data folder to use for commands.
 
 1. Run the server.py program and input desired IP, PORT, and DEBUG code (1 for ON/ 0 for OFF)
 2. Rune the client.py program and input desired IP, PORT, and DEBUG code (1 for ON/ 0 for OFF)
